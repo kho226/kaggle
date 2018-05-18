@@ -6,4 +6,5 @@ collection of juptyer notebooks for kaggle
 - [ ] drop names ~> it's probably irrelevant
 - [ ] pca
 - [ ] data cleaning ~> realized i dropped way too many labels last time
+- [ ] how do I render a juptyer notebook in github?
 
