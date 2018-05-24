@@ -1,4 +1,4 @@
-# kaggle
+#kaggle
 collection of juptyer notebooks for kaggle
 ## titanic
 ### achieved 83% ~> principal components RBF kernel with gamma: 0.1 and c:100
@@ -14,4 +14,4 @@ collection of juptyer notebooks for kaggle
 - [ ] standardize the data
 - [ ] need to refactor ~> this notebook is getting monolithic
 - [ ] need to confusion matrix
-
+- [ ] started the refactor...titanic2.0.ipynb
