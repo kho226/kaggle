@@ -9,4 +9,6 @@ collection of juptyer notebooks for kaggle
 - [ ] data cleaning ~> realized i dropped way too many labels last time
 - [ ] how do I render a juptyer notebook in github?
 - [ ] added some more data stories
-- [ ] 8 principal components explain 90% of the variance 
+- [ ] 8 principal components explain 90% of the variance
+- [ ] normalize the data
+- [ ] standardize the data
