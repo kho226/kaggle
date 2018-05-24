@@ -12,3 +12,6 @@ collection of juptyer notebooks for kaggle
 - [ ] 8 principal components explain 90% of the variance
 - [ ] normalize the data
 - [ ] standardize the data
+- [ ] need to refactor ~> this notebook is getting monolithic
+- [ ] need to confusion matrix
+
