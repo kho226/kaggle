@@ -15,3 +15,14 @@ collection of juptyer notebooks for kaggle
 - [ ] need to refactor ~> this notebook is getting monolithic
 - [ ] need to confusion matrix
 - [ ] started the refactor...titanic2.0.ipynb
+
+## Advanced Regression Techniques
+- [ ] cleaned the training data
+- [ ] feature engineering
+- [ ] clean the test data
+- [ ] data exploration
+- [ ] linear regressions
+- [ ] multi-variable regressions
+- [ ] gradient boosting
+- [ ] k-fold validation
+- [ ] PCA
