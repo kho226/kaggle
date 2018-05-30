@@ -1,7 +1,7 @@
 #kaggle
 collection of juptyer notebooks for kaggle
-## titanic
-### achieved 83% ~> principal components RBF kernel with gamma: 0.1 and c:100
+## Titanic
+### Achieved 83% ~> principal components RBF kernel with gamma: 0.1 and c:100
 - [ ] feature engineering ~> extracted title
 - [ ] one-hot encoding on sex and title
 - [ ] drop names ~> it's probably irrelevant
@@ -21,9 +21,11 @@ collection of juptyer notebooks for kaggle
 - [ ] feature engineering
 - [ ] clean the test data
 - [ ] data exploration
+- [ ] PCA
+- [ ] feature engineering
 - [ ] linear regressions
 - [ ] multi-variable regressions
 - [ ] LASSO Regresssion
 - [ ] gradient boosting
 - [ ] k-fold validation
-- [ ] PCA
+
