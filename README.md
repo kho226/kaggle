@@ -21,6 +21,7 @@ collection of juptyer notebooks for kaggle
 - [ ] feature engineering
 - [ ] clean the test data
 - [ ] data exploration
+- [ ] shapiro wilks test w/ p = 0.01
 - [ ] PCA
 - [ ] feature engineering
 - [ ] linear regressions
