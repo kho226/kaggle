@@ -23,6 +23,7 @@ collection of juptyer notebooks for kaggle
 - [ ] data exploration
 - [ ] linear regressions
 - [ ] multi-variable regressions
+- [ ] LASSO Regresssion
 - [ ] gradient boosting
 - [ ] k-fold validation
 - [ ] PCA
