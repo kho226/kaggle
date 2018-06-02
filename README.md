@@ -17,6 +17,8 @@ collection of juptyer notebooks for kaggle
 - [ ] started the refactor...titanic2.0.ipynb
 
 ## Advanced Regression Techniques
+### None of the labels follow a normal distribution
+### 60 principal components explain ~90% of the variation in the data
 - [ ] cleaned the training data
 - [ ] feature engineering
 - [ ] clean the test data
